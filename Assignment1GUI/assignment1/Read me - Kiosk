@@ -1,0 +1,29 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Super Fantastic Kiosk
+PURPOSE OF PROJECT: Simulation of shopping
+VERSION or DATE: 1.8.0  18 April 2020
+HOW TO START THIS PROJECT: Kiosk Class -> main method
+AUTHORS:  Zhang
+
+USER INSTRUCTIONS:
+1. There are 7 options on Menu.
+2. The customer name and credit balance will show on the top of Menu which
+    is easy for you to check.
+3. You should create order FIRST via choose option 1 and than automatically
+    enter into option 2 to buy credit.
+4. You can buy more credit via option 2.
+5. When you choose option 3 to but item, there are all items you can choose
+    and addition one (#6) is to generate a random item in these items.
+6. You can choose option 4 to check the items you bought and cost.
+7. You can choose option 5 to finish this order and get the items you bought.
+8. If you want help please choose option 6.
+9. If you want leave Kiosk, please choose option 7 to end this whole program.
+Notes:
+1. Please follow prompt to input, otherwise it will get a error message.
+2. When you need enter integer but you input others, it will ask you input
+    again and again.
